@@ -1,2 +1,3 @@
 CAMx compiled
 WRF data is now larger to ensure camx fits
+Smoke compiled 5/27
